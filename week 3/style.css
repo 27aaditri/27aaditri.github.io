@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: vioelt;
+}
+body{
+	background-color: violet;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:violet; 
+}
+
+.center{
+	width: 90%;
+	background-color: black;
+
+}
+.container
+{
+	background-color: black;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: violet;
+}
+.navbar-brand{
+font-size: 30px;	
+}
